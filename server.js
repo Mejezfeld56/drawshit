@@ -6,7 +6,7 @@ var server = app.listen(3000);
 
 app.use(express.static('public'));
 
-console.log("this bitch is running")
+console.log("this bitch is running2")
 
 var socket = require('socket.io');
 
